@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.mypy_cache/
+
+# Node / Frontend artifacts
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment and logs
+*.log
+.DS_Store
+.env*
+!.env.example

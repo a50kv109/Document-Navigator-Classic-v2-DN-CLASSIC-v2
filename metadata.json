@@ -1,0 +1,6 @@
+{
+  "name": "Document Navigator Classic v2",
+  "description": "Experimental deterministic architecture for safer AI-assisted document processing, with document-as-data, provenance, authority isolation, and lifecycle controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
